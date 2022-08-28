@@ -1,0 +1,7 @@
+{
+  "name": "ionicCordovaAppGeniat",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
